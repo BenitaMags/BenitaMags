@@ -28,7 +28,7 @@ I published research on LLM token optimization, co-authored a paper on explainab
 
 **Languages**
 
-<img src="https://skillicons.dev/icons?i=python,ts,js,java,c,html" />
+<img src="https://skillicons.dev/icons?i=python,ts,js,java,c" />
 
 **Agent Orchestration & AI**
 
