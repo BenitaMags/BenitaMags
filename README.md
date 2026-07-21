@@ -40,13 +40,14 @@ I published research on LLM token optimization, co-authored a paper on explainab
 ![Gemini](https://img.shields.io/badge/Gemini-8E75B2?style=flat&logo=googlegemini&logoColor=white)
 ![RAG](https://img.shields.io/badge/RAG-black?style=flat)
 
-**Infra, Data & Cloud**
-
-<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,redis,neo4j,linux,git,github" />
-
 **Frameworks**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,fastapi" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
+
+**Infra, Data & Cloud**
+
+<img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,redis,linux,git,github" />
+![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
 
 ---
 
