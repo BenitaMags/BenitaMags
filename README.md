@@ -42,7 +42,7 @@ I published research on LLM token optimization, co-authored a paper on explainab
 
 **Frameworks**
 
-<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs" />
+<img src="https://skillicons.dev/icons?i=nodejs,express,nextjs,fastapi" />
 
 **Infra, Data & Cloud**
 
@@ -57,7 +57,7 @@ I published research on LLM token optimization, co-authored a paper on explainab
 <tr>
 <td width="50%" valign="top">
 
-**[🔧 AXIOM](https://github.com/BenitaMags)**
+**[🔧 AXIOM](https://github.com/BenitaMags/Axiom)**
 *Adaptive eXecution & Import Optimization Module*
 
 7-agent LangGraph pipeline that analyzes legacy Python dependencies, recommends secure replacements, rewrites source code, and verifies migrations — validated against PyMigBench.
@@ -67,7 +67,7 @@ I published research on LLM token optimization, co-authored a paper on explainab
 </td>
 <td width="50%" valign="top">
 
-**[🛡️ AutoForensics AI](https://github.com/BenitaMags)**
+**[🛡️ AutoForensics AI](https://github.com/BenitaMags/autoforensics-ai)**
 *Multi-Agent Security Incident Analysis Platform*
 
 9-agent system on Google ADK + Vertex AI Agent Engine that parses PCAP/log files, maps attacks to MITRE ATT&CK, and cuts LLM API calls 86% via IOC gating.
@@ -79,7 +79,7 @@ I published research on LLM token optimization, co-authored a paper on explainab
 <tr>
 <td width="50%" valign="top">
 
-**[📖 Codebrief](https://github.com/BenitaMags)**
+**[📖 Codebrief](https://github.com/BenitaMags/codebrief)**
 *AI-Powered Codebase Onboarding Tool*
 
 5-agent LangGraph.js pipeline that parses repos via AST analysis, ranks files by centrality in Neo4j, and serves a RAG pipeline over pgvector — fully self-hostable via local Ollama models.
@@ -89,8 +89,8 @@ I published research on LLM token optimization, co-authored a paper on explainab
 </td>
 <td width="50%" valign="top">
 
-**[⚡ Token Optimizer](https://github.com/BenitaMags)**
-*Research — presented at i-ETC, BYU*
+**[⚡ Token Optimizer](https://github.com/BenitaMags/token-optimizer)**
+*Independent Research — presented at i-ETC, BYU*
 
 Caching and prompt-compression pipeline reducing LLM token usage 30–75% across GPT-3.5 Turbo, GPT-4o Mini, and Claude Haiku, validated on HumanEval/MBPP.
 
