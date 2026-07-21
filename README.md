@@ -47,7 +47,7 @@ I published research on LLM token optimization, co-authored a paper on explainab
 **Infra, Data & Cloud**
 
 <img src="https://skillicons.dev/icons?i=docker,kubernetes,aws,postgres,redis,linux,git,github" />
-![Neo4j](https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white)
+<img src="https://img.shields.io/badge/Neo4j-008CC1?style=flat&logo=neo4j&logoColor=white" />
 
 ---
 
