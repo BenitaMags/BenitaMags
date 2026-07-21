@@ -90,7 +90,7 @@ I published research on LLM token optimization, co-authored a paper on explainab
 <td width="50%" valign="top">
 
 **[⚡ Token Optimizer](https://github.com/BenitaMags/token-optimizer)**
-*Independent Research — presented at i-ETC, BYU*
+* Research — presented at i-ETC, BYU*
 
 Caching and prompt-compression pipeline reducing LLM token usage 30–75% across GPT-3.5 Turbo, GPT-4o Mini, and Claude Haiku, validated on HumanEval/MBPP.
 
